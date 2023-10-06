@@ -6,39 +6,39 @@ Landen K, Period 1, AP Computer Science, Assignment: Create your own Object Clas
 public class Clock {
    public static void main(String[] args) {
    
-   // The method that calls the tellTheTime function.
+   // The function that calls the tellTheTime code.
    tellTheTime();
-   // The method that calls the setTheTime function.
+   // The function that calls the setTheTime code.
    setTheTime();
-   // The method that calls the setTimer function.
+   // The function that calls the setTimer code.
    setTimer();
-   // The method that calls the stopTimer function.
+   // The function that calls the stopTimer code.
    stopTimer();
-   // The method that calls the currentMinutes function.
+   // The function that calls the currentMinutes code.
    currentMinutes();  
    
       } 
-   // First method
+   // First function
    public static void tellTheTime() {
          
       }
    
-   // Second method
+   // Second function
    public static void setTheTime() {
 
       }
    
-   // Third method
+   // Third function
    public static void setTimer() {
    
       }
    
-   // Fourth method
+   // Fourth function
    public static void stopTimer() {
    
       }
    
-   // Fifth method
+   // Fifth function
    public static void currentMinutes() {
       
    }
