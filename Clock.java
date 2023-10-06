@@ -18,27 +18,27 @@ public class Clock {
    currentMinutes();  
    
       } 
-   // First function
+   // This method will tell the time
    public static void tellTheTime() {
          
       }
    
-   // Second function
+   // This method will set the time
    public static void setTheTime() {
 
       }
    
-   // Third function
+   // This method will set a timer
    public static void setTimer() {
    
       }
    
-   // Fourth function
+   // This method will stop a timer
    public static void stopTimer() {
    
       }
    
-   // Fifth function
+   // This method will show the current minutes
    public static void currentMinutes() {
       
    }
