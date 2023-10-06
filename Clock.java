@@ -27,17 +27,17 @@ public class Clock {
 
       }
    
-   // Second method
+   // Third method
    public static void setTimer() {
    
       }
    
-   // Second method
+   // Fourth method
    public static void stopTimer() {
    
       }
    
-   // Second method
+   // Fifth method
    public static void currentMinutes() {
       
    }
