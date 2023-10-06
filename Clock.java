@@ -16,6 +16,7 @@ public class Clock {
    stopTimer();
    // The method that calls the currentMinutes function.
    currentMinutes();  
+   
       } 
    // First method
    public static void tellTheTime() {
