@@ -26,4 +26,4 @@ public class PictureExercise
     }
 }
 
-// int name = function -> print the function using the name
+// int name = function -> call the function using the name
